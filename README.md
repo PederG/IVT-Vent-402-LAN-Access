@@ -55,7 +55,7 @@ During setup, the app asks you to create a personal/device password.
 
 Save this password. It is used as the second component of the local API encryption key.
 
-**IVT Anywhere 2 does not work. **
+**IVT Anywhere 2 does not work.**
 
 ## Credentials
 
