@@ -55,6 +55,8 @@ During setup, the app asks you to create a personal/device password.
 
 Save this password. It is used as the second component of the local API encryption key.
 
+**IVT Anywhere 2 does not work. **
+
 ## Credentials
 
 Two values are required.
@@ -64,6 +66,8 @@ Two values are required.
 The legacy LAN access token associated with the gateway.
 
 Hyphens are removed before key derivation.
+
+Printed as Passwort (sic) on my MB LANi sticker. 
 
 ```text
 IVT_LAN_ACCESS_TOKEN=<legacy LAN access token>
